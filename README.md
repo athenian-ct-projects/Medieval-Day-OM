@@ -1,9 +1,7 @@
-# Assignment Description
+# Medieval Day CYOA game
 
-written by 
+written by OM '23
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Medieval-Day-OM)](https://repl.it/github/athenian-ct-projects/Medieval-Day-OM)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is a chhose your own adventure game that is intended to be a fun way to learn about medieval warfare, crossbows, swords, and armor.
